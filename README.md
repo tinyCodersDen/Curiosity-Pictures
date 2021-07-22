@@ -1,2 +1,2 @@
 # Curiosity-Pictures
-This is a flask app that shows all of the Mars Curiosity Rover's pictures according to the date.
+In here, you will see a website that shows the pictures of the Mars Curiosity Rover as per the date. Download the templates folder and the Curiosity Rover.py. Then register for an api key [here](api.nasa.gov). After that, you will have an api key that you can use, paste it into the "YOUR API KEY HERE" section. Then, simply run your Curiosity Rover.py, and you will see the website!
