@@ -1,6 +1,6 @@
 from flask import *
 from nasapy import Nasa
-key = 'YOUR API KEY HERE'
+key = '<YOUR API KEY HERE>'
 nasa = Nasa(key=key)
 app = Flask('Curiosity Rover')
 @app.route('/')
